@@ -8,6 +8,8 @@ Grub-lluv
 
 [ko-fi](https://ko-fi.com/spiceboy96) hotsauce stuff
 
+[Vigenere table (aka "tabula recta")](https://hatebin.com/qnklqfomqn)
+
         Key:    Z N W I M   A J R B K   I M G H W   B E S P F   O K F P L   I R O I X   V Q U (secret)
 
         - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
