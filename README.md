@@ -1,14 +1,14 @@
 Grub-lluv
 
-[My Readme on OSINT/OPSEC](https://github.com/airborne-commando/OSINT-Tools)
+Some of my work:
 
-[Repo on VFIO GPU, needs two cards](https://github.com/airborne-commando/vfio-gpu-script)
+[My Readme on OSINT/OPSEC](https://github.com/airborne-commando/OSINT-Tools) | [Repo on VFIO GPU, needs two cards](https://github.com/airborne-commando/vfio-gpu-script)
 
-[civitai](https://civitai.com/user/NTHOMPSON/models)
+My socials:
 
-[steam](https://steamcommunity.com/id/RangerRules/)
+[civitai](https://civitai.com/user/NTHOMPSON/models) | [steam](https://steamcommunity.com/id/RangerRules/)
 
-[Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
+Ko-fi:
 
 [ko-fi](https://ko-fi.com/spiceboy96) hotsauce stuff, you can tip me here though if you'd like anyhow.
 
