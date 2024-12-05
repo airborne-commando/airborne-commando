@@ -24,6 +24,8 @@ Email/username
 
 * Gaming/misc:
 
+VFIO/Virtual Machines
+
 [Repo on VFIO GPU, needs two cards](https://github.com/airborne-commando/vfio-gpu-script)
 
 Cryptography
