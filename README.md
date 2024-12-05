@@ -23,7 +23,7 @@ OPSEC tools:
 
 - Email/username
 
-[Email username gen, generates email, username and passwords in python.](https://github.com/airborne-commando/user-email-gen)
+    - [Email username gen, generates email, username and passwords in python.](https://github.com/airborne-commando/user-email-gen)
 
 Gaming/misc:
 
