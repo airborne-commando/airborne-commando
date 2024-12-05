@@ -2,6 +2,8 @@ Grub-lluv
 
 [My Readme on OSINT/OPSEC](https://github.com/airborne-commando/OSINT-Tools)
 
+[Repo on VFIO GPU, needs two cards](https://github.com/airborne-commando/vfio-gpu-script)
+
 [civitai](https://civitai.com/user/NTHOMPSON/models)
 
 [steam](https://steamcommunity.com/id/RangerRules/)
