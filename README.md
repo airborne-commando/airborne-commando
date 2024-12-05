@@ -1,5 +1,7 @@
 Grub-lluv
 
+[My Readme on OSINT/OPSEC](https://github.com/airborne-commando/OSINT-Tools)
+
 [civitai](https://civitai.com/user/NTHOMPSON/models)
 
 [steam](https://steamcommunity.com/id/RangerRules/)
