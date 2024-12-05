@@ -8,7 +8,7 @@ Some of my work that I've contributed and or created myself:
 
 OSINT tools:
 
-- Search tools
+- Search tools that I personally use on usernames/emails
 
     - [Crow, a GUI frontend to blackbird OSINT tool](https://github.com/airborne-commando/Crow) | [maigret-night, a gui frontend to maigret](https://github.com/airborne-commando/maigret-night)
 
