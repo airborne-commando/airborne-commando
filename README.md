@@ -26,6 +26,10 @@ Email/username
 
 [Repo on VFIO GPU, needs two cards](https://github.com/airborne-commando/vfio-gpu-script)
 
+Cryptography
+
+[One time pad gen; written in python](https://github.com/airborne-commando/one-time-pad-truly-random)
+
 
 My socials:
 
