@@ -10,7 +10,7 @@ OSINT tools:
 
 - Search tools
 
-[Crow, a GUI frontend to blackbird OSINT tool](https://github.com/airborne-commando/Crow) | [maigret-night, a gui frontend to maigret](https://github.com/airborne-commando/maigret-night)
+    - [Crow, a GUI frontend to blackbird OSINT tool](https://github.com/airborne-commando/Crow) | [maigret-night, a gui frontend to maigret](https://github.com/airborne-commando/maigret-night)
 
 Facial recon:
 
