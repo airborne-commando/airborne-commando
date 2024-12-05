@@ -4,35 +4,36 @@ Some of my work that I've contributed and or created myself:
 
 * Readme(s):
 
-[My Readme on OSINT/OPSEC](https://github.com/airborne-commando/OSINT-Tools)
+    - [My Readme on OSINT/OPSEC](https://github.com/airborne-commando/OSINT-Tools)
 
-* OSINT tools:
+OSINT tools:
 
-Search tools:
+- Search tools
 
 [Crow, a GUI frontend to blackbird OSINT tool](https://github.com/airborne-commando/Crow) | [maigret-night, a gui frontend to maigret](https://github.com/airborne-commando/maigret-night)
 
 Facial recon:
 
 -  [pimeyes GUI, extracts the url but only leads you to the url of where the image was located](https://github.com/airborne-commando/Pimeyes-Free-GUI)
--  [Main Repo to pimeyes GUI](https://github.com/addycb/Pimeyes-Free-POC)
+    -  [Main Repo to pimeyes GUI](https://github.com/addycb/Pimeyes-Free-POC)
+
 -  [facecheck.ID search extractor,](https://github.com/vin3110/facecheck.id-results-extractor) A script written in JavaScript to extract URLs from FaceCheck.id results for free. This script extracts base64-encoded img.webp data from FaceCheck search results. Will lead you to the website and image.
 
-* OPSEC tools:
+OPSEC tools:
 
-Email/username
+- Email/username
 
 [Email username gen, generates email, username and passwords in python.](https://github.com/airborne-commando/user-email-gen)
 
-* Gaming/misc:
+Gaming/misc:
 
-VFIO/Virtual Machines
+- VFIO/Virtual Machines
 
-[Repo on VFIO GPU, needs two cards](https://github.com/airborne-commando/vfio-gpu-script)
+    - [Repo on VFIO GPU, needs two cards](https://github.com/airborne-commando/vfio-gpu-script)
 
-Cryptography
+- Cryptography
 
-[One time pad gen; written in python](https://github.com/airborne-commando/one-time-pad-truly-random)
+    - [One time pad gen; written in python](https://github.com/airborne-commando/one-time-pad-truly-random)
 
 
 My socials:
