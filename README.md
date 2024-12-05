@@ -14,7 +14,9 @@ Search tools:
 
 Facial recon:
 
-[pimeyes GUI, extracts the url but only leads you to the url of where the image was located](https://github.com/airborne-commando/Pimeyes-Free-GUI) | [Main Repo to pimeyes GUI](https://github.com/addycb/Pimeyes-Free-POC) | [facecheck.ID search extractor,](https://github.com/vin3110/facecheck.id-results-extractor) A script written in JavaScript to extract URLs from FaceCheck.id results for free. This script extracts base64-encoded img.webp data from FaceCheck search results. Will lead you to the website and image.
+-  [pimeyes GUI, extracts the url but only leads you to the url of where the image was located](https://github.com/airborne-commando/Pimeyes-Free-GUI)
+-  [Main Repo to pimeyes GUI](https://github.com/addycb/Pimeyes-Free-POC)
+-  [facecheck.ID search extractor,](https://github.com/vin3110/facecheck.id-results-extractor) A script written in JavaScript to extract URLs from FaceCheck.id results for free. This script extracts base64-encoded img.webp data from FaceCheck search results. Will lead you to the website and image.
 
 * OPSEC tools:
 
