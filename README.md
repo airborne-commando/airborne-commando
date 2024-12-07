@@ -34,7 +34,7 @@ Gaming/misc:
 - Cryptography
 
     - [One time pad gen; written in python](https://github.com/airborne-commando/one-time-pad-truly-random)
-    - [Link extractor and archive, extracts links from basic webpages and archives them in archive ph; useful if you can't use wayback machine](https://github.com/airborne-commando/link-extractor-and-archive)
+    - [Link extractor and archive,](https://github.com/airborne-commando/link-extractor-and-archive) extracts links from basic webpages and archives them in archive ph; useful if you can't use wayback machine
 
 
 My socials:
