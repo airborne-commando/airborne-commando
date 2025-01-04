@@ -44,3 +44,7 @@ My socials:
 Ko-fi:
 
 - [ko-fi](https://ko-fi.com/spiceboy96) hotsauce stuff, you can tip me here though if you'd like anyhow.
+
+My XMR address if you'd wish to donate:
+
+    8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
