@@ -43,4 +43,7 @@ My socials:
 
 My XMR address if you'd wish to donate:
 
+![mon](https://github.com/user-attachments/assets/3d7f7b0b-c470-4fbb-972b-a0f9accb0d61)
+
+
     8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
