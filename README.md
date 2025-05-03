@@ -5,6 +5,7 @@ Some of my work that I've contributed and or created myself:
 * Readme(s):
 
     - [My Readme on OSINT/OPSEC](https://github.com/airborne-commando/OSINT-Tools)
+    - [civitai mirror list](https://github.com/airborne-commando/civitai-mirror-list)
 
 OSINT tools:
 
