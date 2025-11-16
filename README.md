@@ -23,6 +23,10 @@ Made a radicle seed for some of my forks and repos! Feel free to seed.
     │ usertoihsoyct                           rad:z2mBrgnQTaQDjCxQw9DHoJVztbLRM   public                                   │
     │ zabasearch-auto                         rad:zR4NNdHXGgpCxHn5eiXVUZijexG8    public               					   |
 
+Feel free to seed with this command for example:
+
+    rad seed rad:zaEB6y3UmpK8TGkdNNMAsuAUeEyG
+
 * Readme(s):
 
     - [My Readme on OSINT/OPSEC](https://github.com/airborne-commando/OSINT-Tools)
