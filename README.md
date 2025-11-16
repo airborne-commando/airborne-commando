@@ -27,6 +27,10 @@ Feel free to seed with this command for example:
 
     rad seed rad:zaEB6y3UmpK8TGkdNNMAsuAUeEyG
 
+You may find these with for example:
+
+    https://app.radicle.xyz/nodes/rosa.radicle.xyz/rad:zaEB6y3UmpK8TGkdNNMAsuAUeEyG
+
 * Readme(s):
 
     - [My Readme on OSINT/OPSEC](https://github.com/airborne-commando/OSINT-Tools)
