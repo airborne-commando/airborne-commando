@@ -2,9 +2,9 @@
 
 Some of my work that I've contributed and or created myself:
 
-Made a radicle seed for some of my forks and repos! Feel free to seed.
+**Made a radicle account for some of my forks and repos! Feel free to seed, clone and fork.**
 
-My node:
+My node/account:
 
     https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/did:key:z6MkjuFgGz8T6oY95gV491a6zxLWvq5r87pTATEZh8d3tK9a
 
