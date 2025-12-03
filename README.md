@@ -6,8 +6,7 @@ Some of my work that I've contributed and or created myself:
 
 My node/account:
 
-    https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/did:key:z6MkjuFgGz8T6oY95gV491a6zxLWvq5r87pTATEZh8d3tK9a
-
+    https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/did%3Akey%3Az6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
 
 Feel free to seed with this command for example:
 
