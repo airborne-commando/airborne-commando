@@ -55,7 +55,7 @@ My socials:
 
 My XMR address if you'd wish to donate:
 
-![mon](https://github.com/user-attachments/assets/3d7f7b0b-c470-4fbb-972b-a0f9accb0d61)
+![mon](https://rosa.radicle.xyz/raw/rad:zXuj4JY6cW16dn6usB9c9wuGJkBR/f46c08cd4fd7eca60144d7863432502b01f8c284/img/png/misc/monero.png)
 
 
-    8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
+    454oYA9xKnUB1TqaQXtcz33wW2Qmfo8FGBFxoa2BGt7FgLUPA67PCYQYTqtNmRDHudh8px6QQCwTY1JddkkV1qseCoyEupn
