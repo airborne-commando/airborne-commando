@@ -55,7 +55,7 @@ My socials:
 
 My XMR address if you'd wish to donate:
 
-![mon](https://raw.githubusercontent.com/airborne-commando/OPSEC-OSINT-Tools/refs/heads/main/img/png/misc/monero.png)
+<p align="left"><img width="15%" height="auto" alt="monero" src="https://raw.githubusercontent.com/airborne-commando/OPSEC-OSINT-Tools/refs/heads/main/img/png/misc/monero.png"/></p>
 
 
     454oYA9xKnUB1TqaQXtcz33wW2Qmfo8FGBFxoa2BGt7FgLUPA67PCYQYTqtNmRDHudh8px6QQCwTY1JddkkV1qseCoyEupn
