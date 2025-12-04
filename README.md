@@ -55,7 +55,7 @@ My socials:
 
 My XMR address if you'd wish to donate:
 
-![mon](https://rosa.radicle.xyz/raw/rad:zXuj4JY6cW16dn6usB9c9wuGJkBR/f46c08cd4fd7eca60144d7863432502b01f8c284/img/png/misc/monero.png)
+![mon](https://raw.githubusercontent.com/airborne-commando/OPSEC-OSINT-Tools/refs/heads/main/img/png/misc/monero.png)
 
 
     454oYA9xKnUB1TqaQXtcz33wW2Qmfo8FGBFxoa2BGt7FgLUPA67PCYQYTqtNmRDHudh8px6QQCwTY1JddkkV1qseCoyEupn
