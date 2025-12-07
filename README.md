@@ -8,6 +8,8 @@ My node/account:
 
     https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/did:key:z6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
 
+    https://app.radicle.xyz/nodes/iris.radicle.xyz/users/did:key:z6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
+
 Feel free to seed with this command for example:
 
     rad seed rad:<radid>
