@@ -18,6 +18,10 @@ And to clone with any of my repos that were seed by me:
 
     rad clone rad:<radid>
 
+gitea:
+
+    https://gitea.com/jc-denton/OPSEC-OSINT-Tools
+
 * Readme(s):
 
     - [My Readme on OSINT/OPSEC](https://github.com/airborne-commando/OSINT-Tools)
