@@ -4,6 +4,29 @@ Some of my work that I've contributed and or created myself:
 
 **Made a radicle account for some of my forks and repos! Feel free to seed, clone and fork.**
 
+PGP:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User ID:	jc-denton <jc-denton@osint.com>
+Comment: Valid from:	12/12/25 6:18 PM
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User IDs
+Comment: Fingerprint:	DBE7 CDA8 5C5B AB8E 9F25  851F 924F 3F3A 7B83 FDF4
+
+mDMEaTyi1BYJKwYBBAHaRw8BAQdACcRb6JaZt4cw1ylSUyz5ohQiHhcM85VxoT4G
+bVuuUAm0H2pjLWRlbnRvbiA8amMtZGVudG9uQG9zaW50LmNvbT6IkAQTFgoAOBYh
+BNvnzahcW6uOnyWFH5JPPzp7g/30BQJpPKLUAhsDBQsJCAcCBhUKCQgLAgQWAgMB
+Ah4BAheAAAoJEJJPPzp7g/30QyYBAKgHtSQBMSN42pLpvMEyOOQmigafPIU7EDNU
+K3kutEnyAQC9utBtMYiyiHnx344ARQnZs4J+fKYLysrVEokLXLdPCbg4BGk8otQS
+CisGAQQBl1UBBQEBB0CTmVTVIRjwM5q2N/TZurVnuZr/vNayl6mlxD8VAyA/CwMB
+CAeIeAQYFgoAIBYhBNvnzahcW6uOnyWFH5JPPzp7g/30BQJpPKLUAhsMAAoJEJJP
+Pzp7g/30FewBAPvHDobCbc6GXnatjpQs/X5mIS6tQLDReFYFdvdCnJFnAQCRm1/K
+Bq+AU8JohWPchpiEVudyp+mLACOVv00drJRYCw==
+=Wg3p
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 My node/account:
 
     https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/did:key:z6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
