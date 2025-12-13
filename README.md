@@ -4,29 +4,7 @@ Some of my work that I've contributed and or created myself:
 
 **Made a radicle account for some of my forks and repos! Feel free to seed, clone and fork.**
 
-PGP:
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User ID:	jc-denton <jc-denton@osint.com>
-Comment: Valid from:	12/12/25 7:01 PM
-Comment: Valid until:	12/12/30 11:58 PM
-Comment: Type:	255-bit EdDSA (secret key available)
-Comment: Usage:	Signing, Encryption, Certifying User IDs
-Comment: Fingerprint:	AA31 A1EF 7719 DC5F A789  BBFB AE8C 320A DAD3 4A5F
-
-mDMEaTys3RYJKwYBBAHaRw8BAQdAUSiVaO5JG1716tJSBWd3pQr0Irt0ai9Ka6jV
-EIa43fm0H2pjLWRlbnRvbiA8amMtZGVudG9uQG9zaW50LmNvbT6IlgQTFgoAPgIb
-AwULCQgHAgYVCgkICwIEFgIDAQIeAQIXgBYhBKoxoe93Gdxfp4m7+66MMgra00pf
-BQJpPK4CBQkJZ5i2AAoJEK6MMgra00pfNZEBAKmiJNydL3HfZ9SJoMp6uIFKZNIT
-0CHD8WLHFmxYxHppAQD43mos91KN2qFzUcPiaOxf+7Kdj8zF+MZcAn/jtIPECrg4
-BGk8rN0SCisGAQQBl1UBBQEBB0AgayhEEluPo/fQBNQg8JSrLTaVrYqGWFbv5vyY
-67HZRAMBCAeIeAQYFgoAIBYhBKoxoe93Gdxfp4m7+66MMgra00pfBQJpPKzdAhsM
-AAoJEK6MMgra00pfIt0BAIHT2LmrhUSrMu/tPcZm2lp9hwLhll+ay9c3hLEL3Uvg
-AP0ZyMix6CQSXCIr18VuCcfofdVvS/Zc5wlZMKxJXfUjAw==
-=vB9J
------END PGP PUBLIC KEY BLOCK-----
-```
+[PGP](https://gist.githubusercontent.com/airborne-commando/0ca1153f3312bc6341b1ed695f8693e7/raw/0e40357e4f269f9e58bdf9623265cfcfc094124e/pgp.txt)
 
 My node/account:
 
