@@ -4,7 +4,7 @@ Some of my work that I've contributed and or created myself:
 
 **Made a radicle account for some of my forks and repos! Feel free to seed, clone and fork.**
 
-[PGP](https://gist.githubusercontent.com/airborne-commando/0ca1153f3312bc6341b1ed695f8693e7/raw/0e40357e4f269f9e58bdf9623265cfcfc094124e/pgp.txt)
+[PGP](https://gist.githubusercontent.com/airborne-commando/0ca1153f3312bc6341b1ed695f8693e7/raw/pgp.txt)
 
 [Messages](https://gist.githubusercontent.com/airborne-commando/b55a40c20edd0a2cc29797cd163d1632/raw/c4bbd30812191416364f99a5cc56dfad86ad9a6b/messages.txt)
 
