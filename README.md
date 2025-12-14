@@ -6,7 +6,7 @@ Some of my work that I've contributed and or created myself:
 
 [PGP](https://gist.githubusercontent.com/airborne-commando/0ca1153f3312bc6341b1ed695f8693e7/raw/pgp.txt)
 
-[Messages](https://gist.githubusercontent.com/airborne-commando/b55a40c20edd0a2cc29797cd163d1632/raw/c4bbd30812191416364f99a5cc56dfad86ad9a6b/messages.txt)
+[Messages](https://gist.githubusercontent.com/airborne-commando/b55a40c20edd0a2cc29797cd163d1632/raw/messages.txt)
 
 My node/account:
 
