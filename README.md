@@ -39,7 +39,7 @@ OSINT tools:
 
 Facial recon:
 
--  [facecheck.ID search extractor,](https://github.com/vin3110/facecheck.id-results-extractor) A script written in JavaScript to extract URLs from FaceCheck.id results for free. This script extracts base64-encoded img.webp data from FaceCheck search results. Will lead you to the website and image.
+-  [facecheck.ID search extractor,](https://github.com/airborne-commando/tampermonkey-collection/blob/main/README.md#facecheck-photo-extractor) A script written in JavaScript to extract URLs from FaceCheck.id results for free. This script extracts base64-encoded img.webp data from FaceCheck search results. Will lead you to the website and image.
 
 OPSEC tools:
 
