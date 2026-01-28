@@ -35,7 +35,7 @@ OSINT tools:
 
 - Search tools that I personally use on usernames/emails
 
-    - [Crow, a GUI frontend to blackbird OSINT tool](https://github.com/airborne-commando/Crow) | [maigret-night, a gui frontend to maigret](https://github.com/airborne-commando/maigret-night)
+    - [Crow, a GUI frontend to blackbird OSINT tool](https://github.com/airborne-commando/Crow) | [maigret-night, a gui frontend to maigret](https://github.com/airborne-commando/maigret-night) | [Social-Hunt](https://socialhunt.cyou/)
 
 Facial recon:
 
