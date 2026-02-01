@@ -36,7 +36,8 @@ OSINT tools:
 - Search tools that I personally use on usernames/emails
 
     - [Crow, a GUI frontend to blackbird OSINT tool](https://github.com/airborne-commando/Crow) | [maigret-night, a gui frontend to maigret](https://github.com/airborne-commando/maigret-night) | [Social-Hunt](https://socialhunt.cyou/)
-
+    - [Link extractor and archive,](https://github.com/airborne-commando/link-extractor-and-archive) extracts links from basic webpages and archives them in archive ph; useful if you can't use wayback machine
+    
 Facial recon:
 
 -  [facecheck.ID search image extractor,](https://github.com/airborne-commando/tampermonkey-collection/blob/main/README.md#facecheck-photo-extractor) A script written in JavaScript to extract images from facecheck, also has face-spy for content creators.
@@ -56,7 +57,6 @@ Gaming/misc:
 - Cryptography
 
     - [One time pad gen; written in python](https://github.com/airborne-commando/one-time-pad-truly-random)
-    - [Link extractor and archive,](https://github.com/airborne-commando/link-extractor-and-archive) extracts links from basic webpages and archives them in archive ph; useful if you can't use wayback machine
 
 
 My socials:
