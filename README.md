@@ -69,3 +69,8 @@ My XMR address if you'd wish to donate:
 
 
     454oYA9xKnUB1TqaQXtcz33wW2Qmfo8FGBFxoa2BGt7FgLUPA67PCYQYTqtNmRDHudh8px6QQCwTY1JddkkV1qseCoyEupn
+
+
+Trust in most people:
+
+[trust](https://gist.githubusercontent.com/airborne-commando/3b516d36f06f1bb5fe9003da1f1c5823/raw/cdc32f480ea91b257055afa0fe17cfdf8eb1ba14/trust.txt)
