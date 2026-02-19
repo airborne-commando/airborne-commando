@@ -26,6 +26,10 @@ gitea:
 
     https://gitea.com/jc-denton/OPSEC-OSINT-Tools
 
+wayback machine:
+
+    https://web.archive.org/web/20260130114553/https://github.com/airborne-commando/OPSEC-OSINT-Tools
+
 * Readme(s):
 
     - [My Readme on OSINT/OPSEC](https://github.com/airborne-commando/OSINT-Tools)
