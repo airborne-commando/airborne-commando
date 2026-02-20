@@ -14,6 +14,50 @@ My node/account:
 
     https://app.radicle.xyz/nodes/iris.radicle.xyz/users/did:key:z6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
 
+
+Nodes:
+
+    node.radicle.june.cat       
+    radicle.spacetime.technology              
+    rad.spacetime.technology    
+    seed.lama2923.dev           
+    seed.iauthored.it           
+    seed2.lama2923.dev                                                  
+    seed.cielago.xyz            
+    rad.levitte.org             
+    radicle.mozart409.com                 
+    radicle12.distrilab.eu      
+    seed.toph.so                
+    seed.kenadera.org                       
+    radicle.severen.dev          
+    seed.let.software                                                  
+    rosa.radicle.xyz                        
+    Mistera-alpha                
+    garden.bastidehub.xyz        
+    rad.nebu.land                
+    iris.radicle.xyz             
+    radicle.git.gg               
+    rad.bajeanno.com             
+    radicle.linuxw.info          
+    radicle.jarg.io                
+    seed.le-pri.me               
+    radicle.basilebuxtorf.ch     
+    index.radicle.garden         
+    seed.radicle.booboo          
+    rad.hlmn.net                 
+    radicle.jmuchemb.eu          
+    seed.pipapo.org                
+    seed.dazuzu.com              
+    seed.radicle.xeppaka.cz      
+    seed.fredix.xyz                 
+    git.blujai831.dev            
+    seed.lama2923.dev            
+    seed.rad.karatefylla.nu      
+    rad.decentralizedscience.org 
+    index.radicle.garden         
+    radicle.tigefa.dev           
+    nihili.st                    
+
 Feel free to seed with this command for example:
 
     rad seed rad:<radid>
