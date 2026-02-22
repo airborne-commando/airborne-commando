@@ -130,10 +130,11 @@ My socials:
 
 My XMR address if you'd wish to donate:
 
-<p align="left"><img width="15%" height="auto" alt="monero" src="https://raw.githubusercontent.com/airborne-commando/OPSEC-OSINT-Tools/refs/heads/main/img/png/misc/monero.png"/></p>
+
+<img width="135" height="135" alt="monero" src="https://github.com/user-attachments/assets/5781bb14-6be1-46fd-8674-bc03d6780215" />
 
 
-    454oYA9xKnUB1TqaQXtcz33wW2Qmfo8FGBFxoa2BGt7FgLUPA67PCYQYTqtNmRDHudh8px6QQCwTY1JddkkV1qseCoyEupn
+    85nvfR1rD8JZq2h3iGikU9QDFs95qairz1zoRzp7sZgMdSEuPdH29pLPs2RAKf7bRdPfCtxXtcQVKMX7QSXKpywu5hsxdea
 
 
 Trust in most people:
