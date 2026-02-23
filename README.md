@@ -133,8 +133,19 @@ My XMR address if you'd wish to donate:
 
 <img width="135" height="135" alt="monero" src="https://github.com/user-attachments/assets/5781bb14-6be1-46fd-8674-bc03d6780215" />
 
-
+    -----BEGIN PGP SIGNED MESSAGE-----
+    Hash: SHA512
+    
+    Monero Address
+    
     85nvfR1rD8JZq2h3iGikU9QDFs95qairz1zoRzp7sZgMdSEuPdH29pLPs2RAKf7bRdPfCtxXtcQVKMX7QSXKpywu5hsxdea
+    -----BEGIN PGP SIGNATURE-----
+    
+    iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaZs+YAAKCRCujDIK2tNK
+    Xy7bAQC+w5dRQwgmmMbKlIAlrYhzi5eSYux5ul6txL2k7q1ZxgEAkWZ8//R05TcC
+    uiqQVFj42rUmRTJ/HehSjVMrtG6kWAo=
+    =oXts
+    -----END PGP SIGNATURE-----
 
 
 Trust in most people:
