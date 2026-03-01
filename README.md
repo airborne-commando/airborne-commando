@@ -130,22 +130,24 @@ My socials:
 
 My XMR address if you'd wish to donate:
 
+![monero](https://github.com/user-attachments/assets/8e55c8cd-dfb5-4758-81f9-58abf196efce)
 
-<img width="135" height="135" alt="monero" src="https://github.com/user-attachments/assets/5781bb14-6be1-46fd-8674-bc03d6780215" />
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
 
-    -----BEGIN PGP SIGNED MESSAGE-----
-    Hash: SHA512
-    
-    Monero Address
-    
-    85nvfR1rD8JZq2h3iGikU9QDFs95qairz1zoRzp7sZgMdSEuPdH29pLPs2RAKf7bRdPfCtxXtcQVKMX7QSXKpywu5hsxdea
-    -----BEGIN PGP SIGNATURE-----
-    
-    iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaZs+YAAKCRCujDIK2tNK
-    Xy7bAQC+w5dRQwgmmMbKlIAlrYhzi5eSYux5ul6txL2k7q1ZxgEAkWZ8//R05TcC
-    uiqQVFj42rUmRTJ/HehSjVMrtG6kWAo=
-    =oXts
-    -----END PGP SIGNATURE-----
+Monero Address
+
+879WXAcGEpc6CjdVc1mLR6HzsnV9ps9MbPFYPb6ukGJdVWug3wSv5EbdWynPySRFgqXYJkGyT1roZDWDKsDBdPmzPeU4Q3a
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaaTNzQAKCRCujDIK2tNK
+X9adAP9Y+AG5km/K8lQgVLNFJfpa+PSfkHedq2T5anHHIm8Z/AD/SxcFYZx29ePP
+oKzw+9fP8UaJINjA1wPfCr40swNFGg8=
+=EJ9f
+-----END PGP SIGNATURE-----
+
+```
 
 
 Trust in most people:
