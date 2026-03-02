@@ -130,7 +130,7 @@ My socials:
 
 My XMR address if you'd wish to donate:
 
-![monero](https://github.com/user-attachments/assets/8e55c8cd-dfb5-4758-81f9-58abf196efce)
+![monero](https://github.com/user-attachments/assets/fde1e74c-acb7-4409-b4f3-5fca258be054)
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
@@ -138,15 +138,14 @@ Hash: SHA512
 
 Monero Address
 
-879WXAcGEpc6CjdVc1mLR6HzsnV9ps9MbPFYPb6ukGJdVWug3wSv5EbdWynPySRFgqXYJkGyT1roZDWDKsDBdPmzPeU4Q3a
+monero:879WXAcGEpc6CjdVc1mLR6HzsnV9ps9MbPFYPb6ukGJdVWug3wSv5EbdWynPySRFgqXYJkGyT1roZDWDKsDBdPmzPeU4Q3a?tx_amount=0.001431270396
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaaTNzQAKCRCujDIK2tNK
-X9adAP9Y+AG5km/K8lQgVLNFJfpa+PSfkHedq2T5anHHIm8Z/AD/SxcFYZx29ePP
-oKzw+9fP8UaJINjA1wPfCr40swNFGg8=
-=EJ9f
+iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaaV3NgAKCRCujDIK2tNK
+XyRaAP92kxfxkfkFrPuSXbzejPRAhLEYAKst8rRoCFT/2zFH9wD9Ht8Jg7H/S9Xh
+CynUaQvTj+pJwv3UZrXuPzx4HDiIPgA=
+=lbMj
 -----END PGP SIGNATURE-----
-
 ```
 
 
